@@ -107,6 +107,7 @@ namespace MergeSorting
             ob.sort(arr, 0, arr.Length - 1);
             Console.WriteLine("\nSorted array");
             printArray(arr);
+            printArray("lol");
         }
     }
 }
