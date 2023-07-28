@@ -1,0 +1,15 @@
+D:\DSA\Sorting\MergeSorting\MergeSorting\obj\Debug\net6.0\MergeSorting.csproj.AssemblyReference.cache
+D:\DSA\Sorting\MergeSorting\MergeSorting\obj\Debug\net6.0\MergeSorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA\Sorting\MergeSorting\MergeSorting\obj\Debug\net6.0\MergeSorting.AssemblyInfoInputs.cache
+D:\DSA\Sorting\MergeSorting\MergeSorting\obj\Debug\net6.0\MergeSorting.AssemblyInfo.cs
+D:\DSA\Sorting\MergeSorting\MergeSorting\obj\Debug\net6.0\MergeSorting.csproj.CoreCompileInputs.cache
+D:\DSA\Sorting\MergeSorting\MergeSorting\bin\Debug\net6.0\MergeSorting.exe
+D:\DSA\Sorting\MergeSorting\MergeSorting\bin\Debug\net6.0\MergeSorting.deps.json
+D:\DSA\Sorting\MergeSorting\MergeSorting\bin\Debug\net6.0\MergeSorting.runtimeconfig.json
+D:\DSA\Sorting\MergeSorting\MergeSorting\bin\Debug\net6.0\MergeSorting.dll
+D:\DSA\Sorting\MergeSorting\MergeSorting\bin\Debug\net6.0\MergeSorting.pdb
+D:\DSA\Sorting\MergeSorting\MergeSorting\obj\Debug\net6.0\MergeSorting.dll
+D:\DSA\Sorting\MergeSorting\MergeSorting\obj\Debug\net6.0\refint\MergeSorting.dll
+D:\DSA\Sorting\MergeSorting\MergeSorting\obj\Debug\net6.0\MergeSorting.pdb
+D:\DSA\Sorting\MergeSorting\MergeSorting\obj\Debug\net6.0\MergeSorting.genruntimeconfig.cache
+D:\DSA\Sorting\MergeSorting\MergeSorting\obj\Debug\net6.0\ref\MergeSorting.dll
