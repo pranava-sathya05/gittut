@@ -10,7 +10,7 @@ namespace MergeSorting
             // subarrays to be merged
             int n1 = m - l + 1;
             int n2 = r - m;
-
+            int mm3 = 0;
             // Create temp arrays
             int[] L = new int[n1];
             int[] R = new int[n2];
